@@ -1,6 +1,6 @@
 # qlora_finetunning_Llama2_7Bchat_spanishdataset
 
-This repository contains the code to finetune Llama2_7B_chat using a spanish dataset. The aim of this project is to finetune the model using an alpaca spanish dataset to be able to answer question in spanish. 
+This repository contains the code to finetune Llama2_7B_chat using a Spanish dataset. The aim of this project is to finetune the model using an alpaca Spanish dataset to be able to answer questions in Spanish. 
 
 ## Issues
 
